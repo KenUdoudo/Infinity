@@ -4,6 +4,9 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <img src={ Hero }/>
+      <div className="navlinks">
+        
+      </div>
     </div>
   );
 }
