@@ -1,3 +1,5 @@
+import Backdrop from './assets/BGbackdrop.png'
+
 const Main = () => {
   return (
     
