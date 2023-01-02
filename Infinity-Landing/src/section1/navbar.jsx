@@ -6,10 +6,10 @@ const Navbar = () => {
       <img src={ Hero }/>
       <div className="navlinks">
         <ul>
-          <li><a href="#"></a></li>
-          <li><a href="#"></a></li>
-          <li><a href="#"></a></li>
-          <li><a href="#" id='blue-link'></a></li>
+          <li><a href="#">Demos</a></li>
+          <li><a href="#">Pages</a></li>
+          <li><a href="#">Support</a></li>
+          <li><a href="#" id='blue-link'>Start 14 Days Free Trial</a></li>
         </ul>
       </div>
     </div>
