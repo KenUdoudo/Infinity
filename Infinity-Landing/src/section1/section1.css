@@ -25,6 +25,11 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  margin-top: 12%;
-  
+  margin-top: 12%; 
+}
+#p1{
+  margin-top: 2%;
+}
+#mainbtn{
+  margin-top: 2%;
 }
