@@ -2,7 +2,7 @@ import Backdrop from './assets/BGbackdrop.png'
 
 const Main = () => {
   return (
-    <div>
+    <div className='main'>
       <img src={ Backdrop } id="backdrop"/>
       <h2>More than your regular email inbox</h2>
       <p>We've helped over 25,000 individuals and companies to grow their business successfully.</p>

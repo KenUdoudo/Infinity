@@ -19,3 +19,7 @@
   flex-direction: row;
   column-gap: 6%;
 }
+.main{
+  display: flex;
+  flex-direction: column;
+}
