@@ -6,7 +6,13 @@ import Forbes from './assets/logo 5forbes.png'
 
 const Bmain = () => {
   return (
-    
+    <div className="bline">
+      <img src={ Geekwire }/>
+      <img src={ Slack }/>
+      <img src={ Envato }/>
+      <img src={ USA }/>
+      <img src={ Forbes }/>
+    </div>
   );
 }
  
