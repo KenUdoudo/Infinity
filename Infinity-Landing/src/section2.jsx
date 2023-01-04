@@ -17,6 +17,20 @@ const Section2 = () => {
             <p>We've helped over 2,500 job seekers to get into the most popular tech teams</p>
           </div>
         </div>
+        <div className="card">
+          <img src={ Chat } />
+          <div className="inner-card">
+            <h3>Instant Chat</h3>
+            <p>We've helped over 2,500 job seekers to get into the most popular tech teams</p>
+          </div>
+        </div>
+        <div className="card">
+          <img src={ manager } />
+          <div className="inner-card">
+            <h3>Media Manager</h3>
+            <p>We've helped over 2,500 job seekers to get into the most popular tech teams</p>
+          </div>
+        </div>
       </div>
     </div>
   );
