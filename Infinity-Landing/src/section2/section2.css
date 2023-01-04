@@ -7,7 +7,20 @@
 .header p{
   margin-top: 1%;
 }
+.cards{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  column-gap: 2%;
+}
 .card{
   display: flex;
   flex-direction: row;
+  background: rgb(185, 183, 183);
+}
+.card img{
+  width: 10%;
+  height: 10%;
+  margin: 2%;
 }
