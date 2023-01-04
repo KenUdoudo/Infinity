@@ -24,3 +24,9 @@
   height: 10%;
   margin: 2%;
 }
+.inner-card{
+  margin:3% 0 ;
+}
+.inner-card p{
+  padding-right: 50%;
+}
