@@ -4,3 +4,10 @@
 .header{
   text-align: center;
 }
+.header p{
+  margin-top: 1%;
+}
+.card{
+  display: flex;
+  flex-direction: row;
+}
