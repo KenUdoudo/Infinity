@@ -35,9 +35,10 @@ const Section2 = () => {
         </div>
       </div>
       <div className="bottom">
-        <div className="btn">
+        <a href="#"><div className="btn">
           <img src= { Btn }/>
-        </div>
+          <p>See Finity in Action</p>
+        </div></a>
       </div>
     </div>
   );
