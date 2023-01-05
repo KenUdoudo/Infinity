@@ -32,6 +32,11 @@ const Section2 = () => {
           </div>
         </div>
       </div>
+      <div className="bottom">
+        <div className="btn">
+          
+        </div>
+      </div>
     </div>
   );
 }
