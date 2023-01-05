@@ -30,3 +30,16 @@
 .inner-card{
   margin:3% 0 ;
 }
+.bottom{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn{
+  display: flex;
+  flex-direction: row;
+  background: blue;
+  justify-content: center;
+  align-items: center;
+}
+
