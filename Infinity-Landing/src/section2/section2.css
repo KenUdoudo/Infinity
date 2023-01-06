@@ -38,13 +38,15 @@
   margin-top: 2%;
 }
 .btn{
-  width: 170px;
+  width: 190px;
+  height: 30px;
   display: flex;
   flex-direction: row;
   background: blue;
   justify-content: center;
   align-items: center;
   column-gap: 5%;
+  border-radius: 5px;
 }
 .btn p{
   color: white;
