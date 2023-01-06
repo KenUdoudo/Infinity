@@ -31,24 +31,24 @@
   margin:3% 0 ;
 }
 .bottom{
-  
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 2%;
 }
 .btn{
-  padding: 2% 3%;
+  width: 170px;
   display: flex;
   flex-direction: row;
   background: blue;
   justify-content: center;
   align-items: center;
   column-gap: 5%;
-  
- 
 }
 .btn p{
   color: white;
+  white-space: nowrap;
+  padding: 1% 2%;
 }
 
