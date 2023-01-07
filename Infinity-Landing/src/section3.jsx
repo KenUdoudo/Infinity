@@ -10,7 +10,7 @@ const Section3 = () => {
     <div className="sec3">
       <div className="sec3main">
         <h2>Get all your emails in a single place</h2>
-        <p>These companies release their own versions of the operating systems with minor changes, and yet always with the same bottom line.</p>
+        <p id='sec3mainp'>These companies release their own versions of the <br /> operating systems with minor changes, and yet <br /> always with the same bottom line.</p>
 
         <div className="innersec3">
           <div className="sec3icons">
