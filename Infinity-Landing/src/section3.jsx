@@ -17,6 +17,10 @@ const Section3 = () => {
             <img src={ connect }/>
             <p className="sec3p">Connect with new people</p>
           </div>
+          <div className="sec3icons">
+            <img src={ increase }/>
+            <p className="sec3p">Increase chance to engage</p>
+          </div>
         </div>
       </div>
       <div className="sideimg">
