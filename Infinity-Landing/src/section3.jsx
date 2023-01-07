@@ -21,6 +21,10 @@ const Section3 = () => {
             <img src={ increase }/>
             <p className="sec3p">Increase chance to engage</p>
           </div>
+          <div className="sec3icons">
+            <img src={ unlimited }/>
+            <p className="sec3p">Unlimited storage <span>PRO</span></p>
+          </div>
         </div>
       </div>
       <div className="sideimg">
