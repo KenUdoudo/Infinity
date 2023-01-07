@@ -10,6 +10,12 @@
   flex-direction: column;
   justify-content: center;
 }
+.sec3main h2{
+  margin-bottom: 2%;
+}
+.sec3main p{
+  margin-bottom: 2%;
+}
 .sideimg img{
   margin-left: 30%;
   width: 70%;
@@ -19,4 +25,12 @@
   flex-direction: row;
   align-items: center;
   column-gap: 2%;
+  margin-bottom: 2%;
+}
+span{
+  background: yellow;
+  padding: 1px 2px;
+  text-align: center;
+  font-size: 10px;
+  border-radius: 1px;
 }
