@@ -13,7 +13,7 @@ const Section3 = () => {
         <p>These companies release their own versions of the operating systems with minor changes, and yet always with the same bottom line.</p>
       </div>
       <div className="sideimg">
-
+        <img src={ sideimg }/>
       </div>
     </div>
   );
