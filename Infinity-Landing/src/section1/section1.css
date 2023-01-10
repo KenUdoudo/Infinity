@@ -78,6 +78,9 @@
   .navbar{
     column-gap: 25%;
   }
+  .bline{
+    margin-top: 25%;
+  }
 }
 @media screen and (max-width: 425px) {
   
