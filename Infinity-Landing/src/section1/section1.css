@@ -75,7 +75,9 @@
   }
 }
 @media screen and (max-width: 768px) {
-  
+  .navbar{
+    column-gap: 25%;
+  }
 }
 @media screen and (max-width: 425px) {
   
