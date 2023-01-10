@@ -67,7 +67,9 @@
   width: 7%;
 }
 @media screen and (max-width: 1024px) {
-  
+  .navbar{
+    column-gap: 35%;
+  }
 }
 @media screen and (max-width: 768px) {
   
