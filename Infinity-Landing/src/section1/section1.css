@@ -66,3 +66,18 @@
 .bline img{
   width: 7%;
 }
+@media screen and (max-width: 1024px) {
+  
+}
+@media screen and (max-width: 768px) {
+  
+}
+@media screen and (max-width: 425px) {
+  
+}
+@media screen and (max-width: 375px) {
+  
+}
+@media screen and (max-width: 320px) {
+  
+}
