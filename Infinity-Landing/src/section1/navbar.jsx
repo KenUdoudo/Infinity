@@ -8,8 +8,8 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <img src={ Hero } />
-      <div className="navlinks">
-        <ul className={`navul ${open? 'active' : 'inactive'}`}>
+      <div className={`navlinks ${open? 'active' : 'inactive'}`}>
+        <ul className="menu">
           <li><a href="#">Demos</a></li>
           <li><a href="#">Pages</a></li>
           <li><a href="#">Support</a></li>

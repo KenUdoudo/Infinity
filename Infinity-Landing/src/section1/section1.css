@@ -86,16 +86,19 @@
   }
 }
 @media screen and (max-width: 425px) {
-  .navlinks{
+  .navlinks.inactive{
     position: absolute;
     z-index: 2;
     top: 8%;
-    right:  0;
+    right:  -100%;
     background: black;
     width: 70%;
     padding: 7% 0;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
+  }
+  .navlinks.active{
+    right: 0;
   }
   .menu{
   display: flex;
