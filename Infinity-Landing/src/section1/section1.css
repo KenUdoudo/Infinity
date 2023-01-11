@@ -86,10 +86,12 @@
   }
 }
 @media screen and (max-width: 425px) {
-  .menu{
+  .navlinks{
     position: absolute;
     z-index: 2;
-    display: flex;
+  }
+  .menu{
+  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
