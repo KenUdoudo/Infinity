@@ -1,5 +1,5 @@
 import Hero from './assets/Logo (Case Conflict).png'
-
+import Hamburger from './assets/Group 1hamburger.png'
 const Navbar = () => {
   return (
     <div className="navbar">
