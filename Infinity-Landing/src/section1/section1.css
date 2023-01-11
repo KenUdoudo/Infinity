@@ -22,7 +22,7 @@
   align-items: center;
   column-gap: 6%;
 }
-.navlinks ul li a{
+.menu li a{
   color: grey;
 }
 .main{
@@ -94,6 +94,10 @@
   justify-content: center;
   align-items: center;
   row-gap: 6%;
+  }
+  #ham{
+    display: block;
+    width: 15%;
   }
 }
 @media screen and (max-width: 375px) {
