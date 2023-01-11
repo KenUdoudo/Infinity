@@ -66,6 +66,9 @@
 .bline img{
   width: 7%;
 }
+#ham{
+  display: none;
+}
 @media screen and (max-width: 1024px) {
   .navbar{
     column-gap: 35%;
