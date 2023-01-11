@@ -90,7 +90,12 @@
     position: absolute;
     z-index: 2;
     top: 8%;
-    right: 5%;
+    right:  0;
+    background: black;
+    width: 70%;
+    padding: 7% 0;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
   }
   .menu{
   display: flex;
