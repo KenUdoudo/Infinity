@@ -11,8 +11,8 @@ const Navbar = () => {
           <li><a href="#">Support</a></li>
           <a href="#" id='blue-link'>Start 14 Days Free Trial</a>
         </ul>
-      <img src={ Hamburger } id='ham'/>
       </div>
+      <img src={ Hamburger } id='ham'/>
     </div>
   );
 }
