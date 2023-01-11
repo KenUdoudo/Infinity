@@ -89,20 +89,22 @@
   .navlinks{
     position: absolute;
     z-index: 2;
+    top: 8%;
+    right: 5%;
   }
   .menu{
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  row-gap: 6%;
+  row-gap: 15px;
   }
   #ham{
     display: block;
-    width: 15%;
+    width: 8%;
   }
   .navbar{
-    
+    column-gap: 55%;
   }
 }
 @media screen and (max-width: 375px) {
