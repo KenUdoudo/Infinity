@@ -15,11 +15,12 @@
   margin-bottom: 2%;
 }
 .sec3main p{
+  padding-right: 7%;
   margin-bottom: 2%;
 }
 .sideimg img{
-  margin-left: 30%;
-  width: 70%;
+  margin-left: 10%;
+  width: 90%;
 }
 .sec3icons{
   display: flex;
