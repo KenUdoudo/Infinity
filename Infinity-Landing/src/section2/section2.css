@@ -57,7 +57,9 @@
   
 }
 @media screen and (max-width: 768px) {
-  
+  .card{
+    width: 30%;
+  }
 }
 @media screen and (max-width: 425px) {
   .cards{
