@@ -127,6 +127,9 @@
   .navbar{
     column-gap: 55%;
   }
+  #backdrop{
+    display: none;
+  }
 }
 @media screen and (max-width: 375px) {
   
