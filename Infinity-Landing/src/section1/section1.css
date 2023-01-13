@@ -47,6 +47,7 @@
  white-space: nowrap;
 }
 #p1{
+  padding: 0 30%;
   margin-top: 2%;
 }
 #mainbtn{
@@ -83,6 +84,9 @@
   }
   .bline{
     margin-top: 25%;
+  }
+  #p1{
+    padding: 0 25%;
   }
 }
 @media screen and (max-width: 425px) {
