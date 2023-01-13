@@ -46,7 +46,9 @@ span{
   
 }
 @media screen and (max-width: 425px) {
-  
+  .sideimg{
+    display: none;
+  }
 }
 @media screen and (max-width: 375px) {
   
