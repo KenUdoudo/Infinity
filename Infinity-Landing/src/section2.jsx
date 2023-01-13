@@ -9,7 +9,7 @@ const Section2 = () => {
     <div className="sec2">
       <div className="header">
         <h2>Solution made for you</h2>
-        <p>These companies release their own versions of the operating systems <br /> with minor changes, and yet always.</p>
+        <p>These companies release their own versions of the operating systems with minor changes, and yet always.</p>
       </div>
       <div className="cards">
         <div className="card">
