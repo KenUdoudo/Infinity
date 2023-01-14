@@ -10,6 +10,9 @@ const Section4 = () => {
         <img src={ sideimg } id='leftimg'/>
         <div className="sec4text">
           <h2>Work anywhere, with any device</h2>
+          <p>These companies release their own versions of the operating systems with minor changes, and yet always with the same bottom line.</p>
+          <img src={ AppStore } id='appstore'/>
+          <img src={ PlayStore } id='playstore'/>
         </div>
       </div>
       </div>
