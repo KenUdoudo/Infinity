@@ -2,10 +2,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-left: 10%;
 }
 .sec4{
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 #leftimg{
   width: 40%;
@@ -17,6 +20,9 @@
 }
 .sec4text h2{
   padding-right: 70%;
+}
+.sec4text p{
+  padding-right: 50%;
 }
 .sec4text img{
   width: 20%;
