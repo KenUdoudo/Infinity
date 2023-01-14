@@ -1,7 +1,12 @@
+.Sec4{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .sec4{
   display: flex;
   flex-direction: row;
 }
 #leftimg{
-  width: 60%;
+  width: 40%;
 }
