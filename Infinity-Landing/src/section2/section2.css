@@ -7,6 +7,7 @@
 .header p{
   padding: 0 30%;
   margin-top: 1%;
+  color: #7C8087;
 }
 .cards{
   display: flex;
@@ -31,6 +32,9 @@
 .inner-card{
   margin:3% 0 ;
 }
+.inner-card p{
+  color: #7C8087;
+}
 .bottom{
   width: 100%;
   display: flex;
@@ -43,7 +47,7 @@
   height: 30px;
   display: flex;
   flex-direction: row;
-  background: blue;
+  background: #0F53FA;
   justify-content: center;
   align-items: center;
   column-gap: 5%;

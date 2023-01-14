@@ -23,7 +23,7 @@
   column-gap: 6%;
 }
 .menu li a{
-  color: grey;
+  color: #7C8087;
 }
 .main{
   display: flex;
@@ -34,13 +34,13 @@
   margin-top: 8%; 
 }
 #mainbtn{
- background: blue;
+ background: #0F53FA;
  padding: 1% 2%;
  color: white;
  border-radius: 5px;
 }
 #blue-link{
-  background: blue;
+  background: #0F53FA;
  padding: 1% 2%;
  color: white;
  border-radius: 5px;
@@ -49,12 +49,14 @@
 #p1{
   padding: 0 30%;
   margin-top: 2%;
+  color: #7C8087;
 }
 #mainbtn{
   margin-top: 2%;
 }
 #p2{
   margin-top: 1%;
+  color: #7C8087;
 }
 .bline{
   margin-top: 33%;
