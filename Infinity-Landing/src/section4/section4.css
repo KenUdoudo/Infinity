@@ -9,6 +9,7 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  column-gap: 5%;
 }
 #leftimg{
   width: 40%;
@@ -16,13 +17,14 @@
 .sec4text{
   display: flex;
   flex-direction: column;
-  row-gap: 2%;
 }
 .sec4text h2{
-  padding-right: 70%;
+  padding-right: 60%;
+  margin-bottom: 20px;
 }
 .sec4text p{
   padding-right: 50%;
+  margin-bottom: 20px;
 }
 .sec4text img{
   width: 20%;
