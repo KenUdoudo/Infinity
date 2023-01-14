@@ -1,0 +1,7 @@
+.sec4{
+  display: flex;
+  flex-direction: row;
+}
+#leftimg{
+  width: 60%;
+}
