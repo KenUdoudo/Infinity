@@ -10,3 +10,11 @@
 #leftimg{
   width: 40%;
 }
+.sec4text{
+  display: flex;
+  flex-direction: column;
+  row-gap: 2%;
+}
+.sec4text img{
+  width: 20%;
+}
