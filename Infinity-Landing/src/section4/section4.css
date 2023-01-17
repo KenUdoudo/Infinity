@@ -45,9 +45,15 @@
   #leftimg{
     display: none;
   }
+  .sec4text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
   .sec4text h2{
     text-align: center;
-  padding-right: 40%;
+  
 }
 .sec4text p{
   text-align: center;
