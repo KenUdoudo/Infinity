@@ -34,7 +34,12 @@
   
 }
 @media screen and (max-width: 768px) {
-  
+  .sec4text h2{
+  padding-right: 40%;
+}
+.sec4text p{
+  padding-right: 45%;
+}
 }
 @media screen and (max-width: 425px) {
   
