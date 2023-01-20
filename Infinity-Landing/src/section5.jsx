@@ -1,4 +1,11 @@
 import './section5/section5.css'
+import background from './section5/assets/BG.png'
+import one from './section5/assets/1.png'
+import two from './section5/assets/1 copy 3.png'
+import three from './section5/assets/1 copy 4.png'
+import four from './section5/assets/1 copy 5.png'
+import five from './section5/assets/1 copy 6.png'
+import six from './section5/assets/1 copy 7.png'
 
 const Section5 = () => {
 
