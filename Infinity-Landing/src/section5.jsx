@@ -13,6 +13,10 @@ const Section5 = () => {
   return (
     <div className="sec5">
       <img src={ background } id='back'/>
+      <div className="mainsec5">
+        <h2>10,000+ people love us</h2>
+        <p>These companies release their own versions of the operating systems with minor changes, and yet always.</p>
+      </div>
     </div>
   );
 }

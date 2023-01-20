@@ -2,7 +2,7 @@
   margin-top: 5%;
 }
 #back{
-  position: relative;
+  position:absolute;
   z-index: -1;
   width: 100%;
 }
