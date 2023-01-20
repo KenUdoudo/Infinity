@@ -50,16 +50,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-left: 25%;
   }
-  .sec4text h2{
-    text-align: center;
-  padding-right: 0;
-}
-.sec4text p{
-  text-align: center;
-  padding-right: 0;
-}
+
 .sec4text img{
   width: 40%;
 }
