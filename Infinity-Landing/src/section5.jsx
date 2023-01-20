@@ -12,7 +12,7 @@ const Section5 = () => {
 
   return (
     <div className="sec5">
-
+      <img src={ background }/>
     </div>
   );
 }
