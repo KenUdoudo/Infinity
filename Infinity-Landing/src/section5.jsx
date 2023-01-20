@@ -16,6 +16,14 @@ const Section5 = () => {
       <div className="mainsec5">
         <h2>10,000+ people love us</h2>
         <p>These companies release their own versions of the operating systems with minor changes, and yet always.</p>
+        <div className="container">
+          <img src={ one }/>
+          <img src={ two }/>
+          <img src={ three }/>
+          <img src={ four }/>
+          <img src={ five }/>
+          <img src={ six }/>
+        </div>
       </div>
     </div>
   );
