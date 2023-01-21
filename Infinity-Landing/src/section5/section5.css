@@ -26,7 +26,10 @@
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 2%;
   row-gap: 5%;
-  transition: all 1s;
+}
+.container img{
+  border-radius: 8px;
+  transition: all 0.5s;
 }
 .container img:hover{
   transform: translateY(-10px);
