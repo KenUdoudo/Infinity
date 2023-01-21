@@ -26,4 +26,9 @@
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 2%;
   row-gap: 5%;
+  transition: all 1s;
+}
+.container img:hover{
+  transform: translateY(-10px);
+  box-shadow: 0px -9px 15px rgba(0, 0, 0, 0.1), 0px 9px 15px rgba(0, 0, 0, 0.1);
 }
