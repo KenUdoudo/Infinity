@@ -49,10 +49,31 @@
   }
 }
 @media screen and (max-width: 768px) {
-  
+  .container{
+    margin-top: 5%;
+    column-gap: 1%;
+    row-gap: 5%;
+    margin-left: 0;
+  }
+  .container img{
+    border-radius: 8px;
+    transition: all 0.5s;
+    width: 100%;
+  }
 }
 @media screen and (max-width: 425px) {
-  
+  .container{
+    margin-top: 5%;
+    column-gap: 1%;
+    row-gap: 5%;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 4%;
+  }
+  .container img{
+    border-radius: 8px;
+    transition: all 0.5s;
+    width: 90%;
+  }
 }
 @media screen and (max-width: 375px) {
   
