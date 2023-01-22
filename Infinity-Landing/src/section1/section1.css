@@ -92,6 +92,16 @@
   }
 }
 @media screen and (max-width: 425px) {
+  .main{
+    margin-top: 4%;
+    background: rgb(253, 240, 213);
+    padding: 3% 0 8% 0;
+  }
+  .bline{
+    margin-top: 0;
+    background: rgb(253, 240, 213);
+    padding-bottom: 2%;
+  }
   .navlinks.inactive{
     position: absolute;
     z-index: 2;
@@ -103,11 +113,11 @@
     border-bottom-left-radius: 5px;
     transition: all 1s;
    
-    display: none;
+    
   }
   .navlinks.active{
     
-    display: block;
+   
     position: absolute;
     z-index: 2;
     top: 8%;
@@ -117,7 +127,7 @@
     padding: 15% 0;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
-    transition: all 0.5s;
+    transition: all 1s;
   }
   .menu{
   display: flex;
@@ -136,9 +146,7 @@
   #backdrop{
     display: none;
   }
-  .bline{
-    margin-top: 8%;
-  }
+  
 }
 @media screen and (max-width: 375px) {
   
