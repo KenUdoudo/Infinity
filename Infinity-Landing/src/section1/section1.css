@@ -40,8 +40,11 @@
  border-radius: 5px;
 }
 #blue-link{
+  font-size: 13px;
+  width: 170px;
+  
   background: #0F53FA;
- padding: 1% 2%;
+  padding: 2% 4%;
  color: white;
  border-radius: 5px;
  white-space: nowrap;
