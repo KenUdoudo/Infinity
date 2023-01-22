@@ -12,10 +12,16 @@
   justify-content: center;
 }
 .sec3main h2{
+  font-size: 30px;
+  font-weight: 500;
   margin-bottom: 2%;
+  padding-right: 50%;
 }
-.sec3main p{
-  padding-right: 7%;
+#sec3mainp{
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 25px;
+  padding-right: 30%;
   margin-bottom: 2%;
   color: #7C8087;
 }
@@ -36,6 +42,10 @@ span{
   text-align: center;
   font-size: 10px;
   border-radius: 1px;
+}
+.sec3p{
+  font-size: 16px;
+  font-weight: 400;
 }
 
 @media screen and (max-width: 1024px) {
