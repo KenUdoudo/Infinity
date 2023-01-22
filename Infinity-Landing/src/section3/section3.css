@@ -47,6 +47,10 @@ span{
   
 }
 @media screen and (max-width: 425px) {
+  .sec3{
+    background: rgb(253, 240, 213);
+    padding: 10% 0;
+  }
   .sideimg{
     display: none;
   }
