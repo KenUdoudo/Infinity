@@ -4,7 +4,13 @@
 .header{
   text-align: center;
 }
+.header h2{
+  font-size: 30px;
+  font-weight: 600;
+}
 .header p{
+  font-size: 21px;
+  font-weight: 400;
   padding: 0 30%;
   margin-top: 1%;
   color: #7C8087;
@@ -32,7 +38,14 @@
 .inner-card{
   margin:3% 0 ;
 }
+.inner-card h3{
+  font-size: 16px;
+  font-weight: 500;
+}
 .inner-card p{
+  margin-top: 2%;
+  font-size: 13px;
+  font-weight: 400;
   color: #7C8087;
 }
 .bottom{
@@ -43,8 +56,8 @@
   margin-top: 2%;
 }
 .btn{
-  width: 190px;
-  height: 30px;
+  width: 217px;
+  height: 40px;
   display: flex;
   flex-direction: row;
   background: #0F53FA;
@@ -54,6 +67,8 @@
   border-radius: 5px;
 }
 .btn p{
+  font-size: 13px;
+  font-weight: 400;
   color: white;
   white-space: nowrap;
   padding: 1% 2%;
