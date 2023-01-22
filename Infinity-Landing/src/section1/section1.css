@@ -103,9 +103,12 @@
     padding-bottom: 2%;
   }
   .navlinks.inactive{
+    display: none;
     position: absolute;
     z-index: 2;
     top: 8%;
+  
+    right: -100%;
     background: rgb(225, 225, 225);
     width: 70%;
     padding: 15% 0;
@@ -117,7 +120,7 @@
   }
   .navlinks.active{
     
-   
+    display: block;
     position: absolute;
     z-index: 2;
     top: 8%;
