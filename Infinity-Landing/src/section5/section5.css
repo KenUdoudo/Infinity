@@ -37,7 +37,8 @@
 }
 @media screen and (max-width: 1024px) {
   .sec5{
-    background: rgb(250, 234, 203);
+    background: rgb(253, 240, 213);
+    padding-bottom: 20%;
   }
   .container{
     margin-top: 5%;
