@@ -31,7 +31,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  margin-top: 8%; 
+  margin-top: 7%; 
 }
 #mainbtn{
  background: #0F53FA;
@@ -56,11 +56,11 @@
   font-size: 21px;
   font-weight: 400;
   padding: 0 30%;
-  margin-top: 2%;
+  margin-top: 1%;
   color: #7C8087;
 }
 #mainbtn{
-  margin-top: 2%;
+  margin-top: 1%;
 }
 #p2{
   font-size: 13px;
@@ -69,7 +69,7 @@
   color: #7C8087;
 }
 .bline{
-  margin-top: 28%;
+  margin-top: 25%;
   display: flex;
   flex-direction: row;
   justify-content: center;
