@@ -8,7 +8,7 @@ const Section6 = () => {
         <h2>Choose the right plan for your finity</h2>
         <img src={ switchbtn }/>
       </div>
-      <div className="starter">
+      <div className="sections">
         <h3>Starter</h3>
         <div className="storage">
           <p>10 GB Storage</p>
