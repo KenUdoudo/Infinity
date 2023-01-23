@@ -27,6 +27,16 @@
  border-radius: 5px;
  white-space: nowrap;
 }
+#blue-link2{
+  font-size: 13px;
+  width: 170px;
+  height: 45px;
+  background: #0F53FA;
+  padding: 12px 10px;
+ color: white;
+ border-radius: 5px;
+ white-space: nowrap;
+}
 #line{
   margin-top: 3%;
 }
