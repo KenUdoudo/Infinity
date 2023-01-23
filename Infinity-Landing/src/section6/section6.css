@@ -1,3 +1,18 @@
 .sec6{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   margin-top: 15%;
+}
+.sec6head{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  column-gap: 20%;
+  width: 100%;
+}
+.sec6head h2{
+
 }

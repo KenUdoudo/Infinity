@@ -5,7 +5,7 @@ const Section6 = () => {
   return (
     <div className="sec6">
       <div className="sec6head">
-        <h2>Choose the right plan for you</h2>
+        <h2>Choose the right plan for your finity</h2>
         <img src={ switchbtn }/>
       </div>
     </div>
