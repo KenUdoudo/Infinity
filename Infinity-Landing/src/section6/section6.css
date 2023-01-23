@@ -27,6 +27,9 @@
  border-radius: 5px;
  white-space: nowrap;
 }
+#line{
+  margin-top: 3%;
+}
 .sections{
   margin-top: 2%;
   display: flex;
@@ -34,4 +37,7 @@
   justify-content: center;
   column-gap: 10%;
   width: 100%;
+}
+.price p{
+  padding-right: 30%;
 }
