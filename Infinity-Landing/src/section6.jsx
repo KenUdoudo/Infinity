@@ -1,6 +1,6 @@
 import './section6/section6.css'
 import switchbtn from './section6/assets/Switch.png'
-
+import line from './section6/assets/Line 7.png'
 const Section6 = () => {
   return (
     <div className="sec6">
@@ -8,6 +8,7 @@ const Section6 = () => {
         <h2>Choose the right plan for your finity</h2>
         <img src={ switchbtn }/>
       </div>
+      <img src={ line }/>
       <div className="sections">
         <h3>Starter</h3>
         <div className="storage">
