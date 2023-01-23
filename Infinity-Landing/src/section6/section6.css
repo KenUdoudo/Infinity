@@ -16,3 +16,13 @@
 .sec6head img{
   width: 30%;
 }
+#white-link{
+  font-size: 13px;
+  width: 170px;
+  background:#ffffff;
+  padding: 2% 4%;
+ color: black;
+ border: 1px solid rgb(100, 100, 100);
+ border-radius: 5px;
+ white-space: nowrap;
+}
