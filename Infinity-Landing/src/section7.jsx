@@ -6,6 +6,9 @@ const Section7 = () => {
   return (
     <div className="sec7">
       <div className="part1"><img src={ footerLogo } /></div>
+      <div className="part2"></div>
+      <div className="part3"></div>
+      <div className="part"></div>
     </div>
   );
 }
