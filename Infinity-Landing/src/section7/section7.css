@@ -1,6 +1,10 @@
 .sec7{
   margin-top: 5%;
 }
+.sec7main{
+  display: flex;
+  flex-direction: row;
+}
 #footerbg{
   position: absolute;
   z-index: -1;

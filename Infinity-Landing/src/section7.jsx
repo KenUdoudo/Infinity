@@ -6,6 +6,7 @@ const Section7 = () => {
   return (
     <div className="sec7">
       <img src={ footerbg } id="footerbg"/>
+      <div className='sec7main'>
       <div className="part1">
         <img src={ footerLogo } />
         <p>Your ultimate email solution to grow business and engaging with future customers and clients.</p>
@@ -29,6 +30,7 @@ const Section7 = () => {
         <p id="white">Feel free to get in touch with us via phone or send us a message.</p>
         <p id="gold">+-301-340-3946 <br />info@infinity.com</p>
         
+      </div>
       </div>
     </div>
   );
