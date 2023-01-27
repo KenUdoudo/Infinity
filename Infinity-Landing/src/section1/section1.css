@@ -89,6 +89,12 @@
   .bline{
     margin-top: 30%;
   }
+  .main h2{
+    font-size: 48px;
+  }
+  #p1{
+    font-size: 19px;
+  }
 }
 @media screen and (max-width: 768px) {
   .navbar{
@@ -99,6 +105,13 @@
   }
   #p1{
     padding: 0 25%;
+    font-size: 15px;
+  }
+  .main h2{
+    font-size: 40px;
+  }
+  #p2{
+    font-size: 10px;
   }
 }
 @media screen and (max-width: 425px) {
@@ -106,6 +119,9 @@
     margin-top: 4%;
     background: rgb(253, 240, 213);
     padding: 3% 0 8% 0;
+  }
+  .main h2{
+    font-size: 35px;
   }
   .bline{
     margin-top: 0;
