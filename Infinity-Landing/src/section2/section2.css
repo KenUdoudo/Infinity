@@ -93,6 +93,7 @@
     width: 60%;
   }
   .header p{
+    font-size: 16px;
     padding: 0 15%;
   }
 }
