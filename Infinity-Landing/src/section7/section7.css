@@ -25,25 +25,27 @@
   color: #7c8087;
 }
 .part2{
-  
+  row-gap: 10px;
   display: flex;
   flex-direction: column;
   white-space: nowrap;
 }
 .part3{
+  row-gap: 10px;
   display: flex;
   flex-direction: column;
   white-space: nowrap;
 }
 .part4{
+  row-gap: 10px;
   display: flex;
   flex-direction: column;
 }
 .part4text{
-  padding-right: 40%;
+  padding-right: 10%;
 }
 .part1 img{
-  width: 15%;
+  width: 20%;
 }
 #footerbtn{
   font-size: 13px;
@@ -59,4 +61,7 @@
 }
 #parthead{
   color: #7c8087;
+}
+#gold{
+  color: goldenrod;
 }

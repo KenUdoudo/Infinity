@@ -10,7 +10,7 @@ const Section7 = () => {
       <div className="part1">
         <img src={ footerLogo } />
         <p id='part1text' >Your ultimate email solution to grow business and engaging with future customers and clients.</p>
-        <p id='footerbtn' >Ask Question</p>
+        <a href="#"><p id='footerbtn' >Ask Question</p></a>
       </div>
       <div className="part2">
         <p id="parthead">Community</p>
