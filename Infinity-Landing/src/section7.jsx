@@ -2,6 +2,7 @@ import './section7/section7.css'
 import footerLogo from './section7/assets/Logo white.png'
 import footerbg from './section7/assets/Group 17.png'
 import footerline from './section7/assets/Line 7.png'
+import social from './section7/assets/Social.png'
 
 const Section7 = () => {
   return (
@@ -34,9 +35,10 @@ const Section7 = () => {
       </div>
       </div>
       <div className="sec7bottom">
-      <img src={ footerline }/>
+      <img src={ footerline } id='footerline'/>
       <div className="inner">
       <p>@Finity 2019, All Rights Reserved</p>
+      <img src={ social} id='social'/>
       </div>
       </div>
     </div>
