@@ -2,7 +2,8 @@
   margin-top: 5%;
 }
 .sec7main{
-  padding-top: 10%;
+  
+  padding: 10% 3% 0 3%;
   display: flex;
   flex-direction: row;
   justify-content: center;
