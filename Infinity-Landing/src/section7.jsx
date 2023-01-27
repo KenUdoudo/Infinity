@@ -1,6 +1,7 @@
 import './section7/section7.css'
 import footerLogo from './section7/assets/Logo white.png'
 import footerbg from './section7/assets/Group 17.png'
+import footerline from './section7/assets/Line 7.png'
 
 const Section7 = () => {
   return (
@@ -30,6 +31,12 @@ const Section7 = () => {
       <p id="white" className='part4text'>Feel free to get in touch with us via phone or send us a message.</p>
       <a href="#"><p id="gold">+1-301-340-3946 <br />info@infinity.com</p></a>
         
+      </div>
+      </div>
+      <div className="sec7bottom">
+      <img src={ footerline }/>
+      <div className="inner">
+      <p>@Finity 2019, All Rights Reserved</p>
       </div>
       </div>
     </div>
