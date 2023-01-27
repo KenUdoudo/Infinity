@@ -7,7 +7,7 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
-  align-items: center;
+  
 }
 #footerbg{
   position: absolute;
@@ -32,6 +32,15 @@
 }
 .part1 img{
   width: 15%;
+}
+#footerbtn{
+  font-size: 13px;
+  padding: 2% 0;
+  width: 20%;
+  text-align: center;
+  background: #0F53FA;
+ color: white;
+ border-radius: 5px;
 }
 #white{
   color: white;
