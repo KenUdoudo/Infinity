@@ -9,7 +9,7 @@ const Section7 = () => {
       <div className='sec7main'>
       <div className="part1">
         <img src={ footerLogo } />
-        <p>Your ultimate email solution to grow business and engaging with future customers and clients.</p>
+        <p id='part1text' >Your ultimate email solution to grow business and engaging with future customers and clients.</p>
         <p id='footerbtn' >Ask Question</p>
       </div>
       <div className="part2">
@@ -27,7 +27,7 @@ const Section7 = () => {
       </div>
       <div className="part4">
       <p id="parthead">Contacts</p>
-        <p id="white">Feel free to get in touch with us via phone or send us a message.</p>
+        <p id="white" className='part4text'>Feel free to get in touch with us via phone or send us a message.</p>
         <p id="gold">+1-301-340-3946 <br />info@infinity.com</p>
         
       </div>
