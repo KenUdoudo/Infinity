@@ -28,7 +28,7 @@ const Section7 = () => {
       <div className="part4">
       <p id="parthead">Contacts</p>
         <p id="white">Feel free to get in touch with us via phone or send us a message.</p>
-        <p id="gold">+-301-340-3946 <br />info@infinity.com</p>
+        <p id="gold">+1-301-340-3946 <br />info@infinity.com</p>
         
       </div>
       </div>
