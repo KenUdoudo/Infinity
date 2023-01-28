@@ -99,6 +99,10 @@
   .price p{
     padding-right: 0;
   }
+  .sec6head{
+    padding: 0 2%;
+    column-gap: 2;
+  }
 }
 @media screen and (max-width: 375px) {
   
