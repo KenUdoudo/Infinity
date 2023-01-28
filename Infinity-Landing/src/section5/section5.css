@@ -56,6 +56,9 @@
     transition: all 0.5s;
     width: 90%;
   }
+  .mainsec5 p{
+    padding: 0 25%;
+  }
 }
 @media screen and (max-width: 768px) {
   .container{
