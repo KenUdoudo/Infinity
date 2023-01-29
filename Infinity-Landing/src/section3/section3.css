@@ -69,5 +69,7 @@ span{
   
 }
 @media screen and (max-width: 320px) {
-  
+  .sec3main h2{
+    padding-right: 10%;
+  }
 }
