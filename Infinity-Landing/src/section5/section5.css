@@ -97,5 +97,11 @@
   
 }
 @media screen and (max-width: 320px) {
-  
+  .mainsec5 h2{
+    text-align: center;
+  }
+  .mainsec5 p{
+    font-size: 13px;
+    padding: 0 10%;
+  }
 }
