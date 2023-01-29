@@ -66,6 +66,7 @@
 @media screen and (max-width: 425px) {
   .sections {
     padding: 0 2%;
+    column-gap: 4%;
   }
   .sections h3{
     font-size: 16px;
@@ -101,12 +102,23 @@
   }
   .sec6head{
     padding: 0 2%;
-    column-gap: 2;
+    column-gap: 2%;
   }
 }
 @media screen and (max-width: 375px) {
   
 }
 @media screen and (max-width: 320px) {
-  
+  .sections h3{
+    font-size: 13px;
+  }
+  .storage p{
+    font-size: 10px;
+  }
+  .price h2{
+    font-size: 16px;
+  }
+  .price p{
+    font-size: 10px;
+  }
 }
