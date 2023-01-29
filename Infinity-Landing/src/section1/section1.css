@@ -184,5 +184,10 @@
   
 }
 @media screen and (max-width: 320px) {
-  
+  .main h2{
+    font-size: 29px;
+  }
+  #p1{
+    font-size: 13px;
+  }
 }
